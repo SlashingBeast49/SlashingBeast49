@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🌱 I’m currently learning for Entrance Exams
+- 💬 Ask me about: Interesting Technology, both hardware and software.
+- 📫 How to reach me: Email and Instagram have been linked in my profile.
+- 🔭 I’m currently working on being a better version of myself.
+
+Thanks for visiting my GitHub!
 
 <!--
 **SlashingBeast49/SlashingBeast49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
